@@ -2656,20 +2656,16 @@
   "Sachsen":{
     "Nordsachsen":"151",
     "Leipzig (Kreisfreie Stadt)":{
-      "Leipzig (Kreisfreie Stadt)":{
-        "Leipzig (Kreisfreie Stadt)":{
-          "Alt-West":"152",
-          "Nord":"152",
-          "Nordost":"152",
-          "Nordwest":"152",
-          "Ost":"152",
-          "Mitte":"153",
-          "Süd":"153",
-          "Südost":"153",
-          "Südwest":"153",
-          "West":"153"
-        }
-      }
+      "Alt-West":"152",
+      "Nord":"152",
+      "Nordost":"152",
+      "Nordwest":"152",
+      "Ost":"152",
+      "Mitte":"153",
+      "Süd":"153",
+      "Südost":"153",
+      "Südwest":"153",
+      "West":"153"
     },
     "Leipzig (Landkreis)":"154",
     "Meißen":"155",
@@ -2838,6 +2834,7 @@
       "Verwaltungsgemeinschaft Scheibenberg-Schlettau":"164",
       "Verwaltungsgemeinschaft Seiffem/Erzgeb.":"164",
       "Verwaltungsgemeinschaft Zschopau":"164",
+      "Verwaltungsgemeinschaft Zschorlau":"164",
       "Verwaltungsverband Wildenstein":"164"
     },
     "Zwickau":{

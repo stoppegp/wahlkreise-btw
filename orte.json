@@ -1685,7 +1685,7 @@
   },
   "Schleswig-Holstein":{
     "Flensburg (Kreisfreie Stadt)":"1",
-    "Schleswig Flensburg":"1",
+    "Schleswig-Flensburg":"1",
     "Nordfriesland":"2",
     "Dithmarschen":{
       "Heide":"2",
@@ -1713,7 +1713,6 @@
       "Amt Kaltenkirchen-Land":"8",
       "Amt Kisdorf":"8",
       "Amt Leezen":"8",
-      "Tangstedt":"8",
       "Amt Trave-Land":"8"
     },
     "Rendsburg-Eckernförde":{
@@ -1748,6 +1747,7 @@
       "Bargteheide":"8",
       "Amt Bad Oldesloe-Land":"8",
       "Amt Bargteheide-Land":"8",
+      "Tangstedt":"8",
       "Reinfeld (Holstein)":"9",
       "Amt Nordstormarn":"9",
       "Ahrensburg":"10",

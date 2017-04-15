@@ -1960,7 +1960,7 @@
     "Saarpfalz-Kreis":"299"
   },
   "Nordrhein-Westfalen":{
-    "(Städteregion) Aachen":{
+    "Aachen (Städteregion)":{
       "Aachen":"87",
       "Alsdorf":"88",
       "Baesweiler":"88",
@@ -1988,25 +1988,21 @@
     },
     "Euskirchen":"92",
     "Köln (Kreisfreie Stadt)":{
-      "Köln (Kreisfreie Stadt)":{
-        "Köln (Kreisfreie Stadt)":{
-          "Innenstadt (1)":{
-            "Altstadt-Nord":"93",
-            "Deutz":"93",
-            "Neustadt-Nord":"93",
-            "Altstadt-Süd":"94",
-            "Neustadt-Süd":"94"
-          },
-          "Porz (7)":"93",
-          "Kalk (8)":"93",
-          "Rodenkirchen (2)":"94",
-          "Lindenthal (3)":"94",
-          "Ehrenfeld (4)":"95",
-          "Nippes (5)":"95",
-          "Chorweiler (6)":"95",
-          "Mülheim (9)":"101"
-        }
-      }
+      "Innenstadt (1)":{
+        "Altstadt-Nord":"93",
+        "Deutz":"93",
+        "Neustadt-Nord":"93",
+        "Altstadt-Süd":"94",
+        "Neustadt-Süd":"94"
+      },
+      "Porz (7)":"93",
+      "Kalk (8)":"93",
+      "Rodenkirchen (2)":"94",
+      "Lindenthal (3)":"94",
+      "Ehrenfeld (4)":"95",
+      "Nippes (5)":"95",
+      "Chorweiler (6)":"95",
+      "Mülheim (9)":"101"
     },
     "Bonn (Kreisfreie Stadt)":"96",
     "Rhein-Sieg-Kreis":{
@@ -2034,20 +2030,16 @@
     "Rheinisch-Bergischer Kreis":"100",
     "Leverkusen (Kreisfreie Stadt)":"101",
     "Wuppertal (Kreisfreie Stadt)":{
-      "Wuppertal (Kreisfreie Stadt)":{
-        "Wuppertal (Kreisfreie Stadt)":{
-          "Elberfeld (0)":"102",
-          "Elberfeld West (1)":"102",
-          "Uellendahl-Katernberg (2)":"102",
-          "Vohwinkel (3)":"102",
-          "Barmen (5)":"102",
-          "Oberbarmen (6)":"102",
-          "Heckinghausen (7)":"102",
-          "Langerfeld-Beyenburg (8)":"102",
-          "Cronenberg (4)":"103",
-          "Ronsdorf (9)":"103"
-        }
-      }
+      "Elberfeld (0)":"102",
+      "Elberfeld West (1)":"102",
+      "Uellendahl-Katernberg (2)":"102",
+      "Vohwinkel (3)":"102",
+      "Barmen (5)":"102",
+      "Oberbarmen (6)":"102",
+      "Heckinghausen (7)":"102",
+      "Langerfeld-Beyenburg (8)":"102",
+      "Cronenberg (4)":"103",
+      "Ronsdorf (9)":"103"
     },
     "Remscheid (Kreisfreie Stadt)":"103",
     "Solingen (Kreisfreie Stadt)":"103",
@@ -2064,20 +2056,16 @@
       "Wülfrath":"105"
     },
     "Düsseldorf (Kreisfreie Stadt)":{
-      "Düsseldorf (Kreisfreie Stadt)":{
-        "Düsseldorf (Kreisfreie Stadt)":{
-          " 1":"106",
-          " 2":"106",
-          " 4":"106",
-          " 5":"106",
-          " 6":"106",
-          " 7":"106",
-          " 3":"107",
-          " 8":"107",
-          " 9":"107",
-          "10":"107"
-        }
-      }
+      "Stadtbezirk 1":"106",
+      "Stadtbezirk 2":"106",
+      "Stadtbezirk 4":"106",
+      "Stadtbezirk 5":"106",
+      "Stadtbezirk 6":"106",
+      "Stadtbezirk 7":"106",
+      "Stadtbezirk 3":"107",
+      "Stadtbezirk 8":"107",
+      "Stadtbezirk 9":"107",
+      "Stadtbezirk 10":"107"
     },
     "Rhein-Kreis Neuss":{
       "Dormagen":"108",
@@ -2091,19 +2079,15 @@
     },
     "Mönchengladbach (Kreisfreie Stadt)":"109",
     "Krefeld (Kreisfreie Stadt)":{
-      "Krefeld (Kreisfreie Stadt)":{
-        "Krefeld (Kreisfreie Stadt)":{
-          "West (1)":"110",
-          "Süd (5)":"110",
-          "Fischeln (6)":"110",
-          "Oppum-Linn (7)":"110",
-          "Uerdingen (9)":"110",
-          "Nord (2)":"114",
-          "Hüls (3)":"114",
-          "Mitte (4)":"114",
-          "Ost (8)":"114"
-        }
-      }
+      "West (1)":"110",
+      "Süd (5)":"110",
+      "Fischeln (6)":"110",
+      "Oppum-Linn (7)":"110",
+      "Uerdingen (9)":"110",
+      "Nord (2)":"114",
+      "Hüls (3)":"114",
+      "Mitte (4)":"114",
+      "Ost (8)":"114"
     },
     "Viersen":"111",
     "Kleve":"112",
@@ -2123,44 +2107,36 @@
       "Dinslaken":"117"
     },
     "Duisburg (Kreisfreie Stadt)":{
-      "Duisburg (Kreisfreie Stadt)":{
-        "Duisburg (Kreisfreie Stadt)":{
-          "Rheinhausen (600)":"115",
-          "Süd (700)":"115",
-          "Mitte (500)":{
-            "Altstadt (501)":"115",
-            "Neuenkamp (502)":"115",
-            "Kaßlerfeld (503)":"115",
-            "Neudorf-Nord (505)":"115",
-            "Neudorf-Süd (506)":"115",
-            "Dellviertel (507)":"115",
-            "Hochfeld (508)":"115",
-            "Wanheimerort (509)":"115",
-            "Duisern (504)":"116"
-          },
-          "Walsum (100)":"116",
-          "Hamborn (200)":"116",
-          "Meiderich/Beeck (300)":"116",
-          "Homberg/Ruhrort/Baerl (400)":"116"
-        }
-      }
+      "Rheinhausen (600)":"115",
+      "Süd (700)":"115",
+      "Mitte (500)":{
+        "Altstadt (501)":"115",
+        "Neuenkamp (502)":"115",
+        "Kaßlerfeld (503)":"115",
+        "Neudorf-Nord (505)":"115",
+        "Neudorf-Süd (506)":"115",
+        "Dellviertel (507)":"115",
+        "Hochfeld (508)":"115",
+        "Wanheimerort (509)":"115",
+        "Duisern (504)":"116"
+      },
+      "Walsum (100)":"116",
+      "Hamborn (200)":"116",
+      "Meiderich/Beeck (300)":"116",
+      "Homberg/Ruhrort/Baerl (400)":"116"
     },
     "Oberhausen (Kreisfreie Stadt)":"117",
     "Mülheim an der Ruhr (Kreisfreie Stadt)":"118",
     "Essen (Kreisfreie Stadt)":{
-      "Essen (Kreisfreie Stadt)":{
-        "Essen (Kreisfreie Stadt)":{
-          " IV":"118",
-          " I":"119",
-          " V":"119",
-          " VI":"119",
-          " VII":"119",
-          " II":"120",
-          " III":"120",
-          " VIII":"120",
-          "IX":"120"
-        }
-      }
+      "Stadtbezirk IV":"118",
+      "Stadtbezirk I":"119",
+      "Stadtbezirk V":"119",
+      "Stadtbezirk VI":"119",
+      "Stadtbezirk VII":"119",
+      "Stadtbezirk II":"120",
+      "Stadtbezirk III":"120",
+      "Stadtbezirk VIII":"120",
+      "Stadtbezirk IX":"120"
     },
     "Recklinghausen":{
       "Castrop-Rauxel":"121",
@@ -2221,7 +2197,7 @@
       "Westerkappeln":"128"
     },
     "Bottrop (Kreisfreie Stadt)":"125",
-    "Coesfeld":"128",
+    "Coesfeld":"127",
     "Münster (Kreisfreie Stadt)":"129",
     "Warendorf":"130",
     "Gütersloh":{
@@ -2272,6 +2248,7 @@
       "Schieder-Schwalenberg":"136",
       "Schlangen":"136"
     },
+    "Höxter":"136",
     "Paderborn":"137",
     "Hagen (Kreisfreie Stadt)":"138",
     "Ennepe-Ruhr-Kreis":{
@@ -2286,37 +2263,29 @@
       "Witten":"139"
     },
     "Bochum (Kreisfreie Stadt)":{
-      "Bochum (Kreisfreie Stadt)":{
-        "Bochum (Kreisfreie Stadt)":{
-          "Bochum-Mitte (1)":"140",
-          "Bochum-Wattenscheid (2)":"140",
-          "Bochum-Süd (5)":"140",
-          "Bochum-Südwest (6)":"140",
-          "Bochum-Nord (3)":"141",
-          "Bochum-Ost (4)":"141"
-        }
-      }
+      "Bochum-Mitte (1)":"140",
+      "Bochum-Wattenscheid (2)":"140",
+      "Bochum-Süd (5)":"140",
+      "Bochum-Südwest (6)":"140",
+      "Bochum-Nord (3)":"141",
+      "Bochum-Ost (4)":"141"
     },
     "Herne (Kreisfreie Stadt)":"141",
     "Dortmund (Kreisfreie Stadt)":{
-      "Dortmund (Kreisfreie Stadt)":{
-        "Dortmund (Kreisfreie Stadt)":{
-          "Innenstadt (0)":{
-            "Innenstadt-West":"142",
-            "Innenstadt-Ost":"142",
-            "Innenstadt-Nord":"143"
-          },
-          "Hombruch (6)":"142",
-          "Huckarde (8)":"142",
-          "Lütgendortmund (7)":"142",
-          "Mengede (9)":"142",
-          "Aplerbeck (4)":"143",
-          "Brackel (3)":"143",
-          "Eving (1)":"143",
-          "Hörde (5)":"143",
-          "Scharnhorst (2)":"143"
-        }
-      }
+      "Innenstadt (0)":{
+        "Innenstadt-West":"142",
+        "Innenstadt-Ost":"142",
+        "Innenstadt-Nord":"143"
+      },
+      "Hombruch (6)":"142",
+      "Huckarde (8)":"142",
+      "Lütgendortmund (7)":"142",
+      "Mengede (9)":"142",
+      "Aplerbeck (4)":"143",
+      "Brackel (3)":"143",
+      "Eving (1)":"143",
+      "Hörde (5)":"143",
+      "Scharnhorst (2)":"143"
     },
     "Unna":{
       "Bergkamen":"144",
@@ -2330,6 +2299,7 @@
       "Selm":"145",
       "Werne":"145"
     },
+    "Hamm (kreisfreie Stadt)":"145",
     "Soest":"146",
     "Hochsauerlandkreis":"147",
     "Siegen-Wittgenstein":"148",

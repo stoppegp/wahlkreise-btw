@@ -587,7 +587,7 @@
     }
   },
   "Bayern":{
-    "München":{
+    "München (kreisfreie Stadt)":{
       "Feldmoching-Hasenbergl":"217",
       "Maxvorstadt":"217",
       "Milbertshofen-Am Hart":"217",
@@ -615,7 +615,7 @@
       "Trudering-Riem":"218"
     },
     "Neu-Ulm":"255",
-    "Augsburg":"252",
+    "Augsburg (kreisfreie Stadt)":"252",
     "München (Landkreis)":"221",
     "Günzburg":"255",
     "Unterallgäu":{
@@ -1124,7 +1124,7 @@
     "Freyung-Grafenau":"227",
     "Amberg (Kreisfreie Stadt)":"232",
     "Amberg-Sulzbach":"232",
-    "Neumarkt i.d.OPF.":"232",
+    "Neumarkt i.d.OPf.":"232",
     "Regensburg (Kreisfreie Stadt)":"233",
     "Regensburg (Landkreis)":"233",
     "Straubing (Kreisfreie Stadt)":"231",
